@@ -2,9 +2,7 @@ apiVersion: v1
 data:
   images.json: |-
     [
-      "https://i.imgflip.com/7jqevq.jpg",
-      "https://i.imgflip.com/7jqekl.jpg",
-      "https://i.imgflip.com/7jmwjs.jpg"
+      "https://cdn1.picuki.com/hosted-by-instagram/q/0exhNuNYnjBcaS3SYdxKjf8F2vJ1WgxSZ60STLepjSVmIR1vLHOapZA0mpCj4yRwKwVlASuRYzxk54IiVV9WAz19PUbaSLyJRT9R7KidVu3N1jVl85Nll7ozLnQfZn+s9ssqUwmYdTUdHOlPHL||lo79UvOa0LGFq8zCXW||dDmG4CqZL0APIz9Z8j3aqT3Vjm5IolITNev2glIx1l85PZrjQDUufkM8lmpKw5RbgBzPgL6NDtmjHlQD14PVFwFA+Qsoicq8gNoHXQLDoC9kCGf+QxKH40mBO+sxtsk7wRvtTyEa9M+N8Z96PUTjtQEjktqBwzwMSCtiXueUOL3HxZ9WjY47q2Y9AyqY34LfKXbfPuwwmSXYbVG||ZYbGMGLu6CBmjPN7O5ApUPwtwbPaBrgBiK||gWCZ7nwgUsmVmRJhQ==.jpeg"
     ]
 kind: ConfigMap
 metadata:
